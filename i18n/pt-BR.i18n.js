@@ -86,6 +86,7 @@ ptBR = {
 		usernameTooShort: "Usuário precisa ter mais de 3 caracteres",
 		passwordTooShort: "Senha precisa ter mais de 6 caracteres",
 		passwordsDontMatch: "Senhas estão diferentes",
-		newPasswordSameAsOld: "A nova senha tem de ser diferente da antiga"
+		newPasswordSameAsOld: "A nova senha tem de ser diferente da antiga",
+		signupsForbidden: "Confirmação de e-mail pendente."
 	}
 }
